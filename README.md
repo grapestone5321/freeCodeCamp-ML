@@ -28,3 +28,14 @@ https://www.youtube.com/watch?v=VJrP2FUzKP0&t=8s
 
 https://www.youtube.com/watch?v=nVAaxZ34khk&t=5s
 
+-----
+
+## Scientific Computing with Python
+
+
+### Python for Everybody - Full University Python Course
+
+https://www.youtube.com/watch?v=8DvywoWv6fI&t=26105s
+
+
+-----
