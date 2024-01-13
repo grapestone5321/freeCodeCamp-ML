@@ -39,3 +39,26 @@ https://www.youtube.com/watch?v=8DvywoWv6fI&t=26105s
 
 
 -----
+
+## DATA ANALYSIS WITH PYTHON COURSE
+
+### Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
+
+https://www.youtube.com/watch?v=r-uOLxNrNk8&t=7767s
+
+-----
+
+## Data Visualization
+
+- DATA VISUALIZATION WITH D3
+
+### Data Visualization with D3, JavaScript, React - Full Course [2021]
+
+https://www.youtube.com/watch?v=r-uOLxNrNk8&t=7767s
+
+### Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)
+
+https://www.youtube.com/watch?v=r-uOLxNrNk8&t=7767s
+
+-----
+
