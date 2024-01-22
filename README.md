@@ -105,6 +105,10 @@ https://www.youtube.com/watch?v=8DvywoWv6fI&t=26105s
 
 ## 1. Quality Assurance
 
+### Learn How JavaScript Assertions Work - Quality Assurance and Testing with Chai - Free Code Camp
+
+https://www.youtube.com/watch?v=DerVeJt0OmI&list=PL3vpzVxKa3PgHKYVadhP0m_lbDg-Qny0V&index=1
+
 -----
 -----
 
