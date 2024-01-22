@@ -2,6 +2,22 @@
 freeCodeCamp-ML
 
 -----
+# Data Science Fundamentals
+
+## 1. Data Analysis with Python
+
+## 2. Data Visualization
+
+## 3. Machine Learning with Python
+
+## 4. Scientific Computing with Python
+
+-----
+
+
+
+
+
 
 ## Kylie Ying
 
