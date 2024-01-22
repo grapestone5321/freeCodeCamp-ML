@@ -14,11 +14,44 @@ freeCodeCamp-ML
 
 -----
 
+# WEB DEVELOPMENT
+
+## 1. Back End Development and APIs
+
+## 2. Front End Development Libraries
+
+## 3. JavaScript Algorithms and Data Structures
+
+## 4. Responsive Web Design
+
+-----
 
 
 
 
 
+
+# CODING INTERVIEWS
+
+## 1. Coding Interview Prep
+
+
+-----
+
+
+# INFORMATION SECURITY
+
+## 1. Information Security
+
+
+-----
+
+# QUALITY ASSURANCE
+
+## 1. Quality Assurance
+
+
+-----
 ## Kylie Ying
 
 ## Hot Dog or Not Hot Dog – Convolutional Neural Network Course for Beginners
